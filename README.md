@@ -29,8 +29,3 @@ Automatically classify customer support tickets into predefined categories using
 - Fine-Tuning provides the highest accuracy.
 - The system successfully predicts the top three categories for support tickets.
 
-## Files
-
-- support_tickets.csv
-- Task5_Auto_Tagging_Support_Tickets.ipynb
-- README.md
